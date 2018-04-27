@@ -12,7 +12,7 @@ Here is a copy of my `.env` file
 ```
 APP_NAME="Birthday's reminder"
 APP_ENV=local
-APP_KEY=base64:7ueUuzQ8dXa9cfJF+196HF2g10OZCEEtjW59QqqN0lQ=
+APP_KEY=base64:
 APP_DEBUG=true
 APP_LOG_LEVEL=debug
 # Add port 8000 for the links sent by email
@@ -33,8 +33,8 @@ REDIS_PORT=6379
 MAIL_DRIVER=smtp
 MAIL_HOST=smtp.mailtrap.io
 MAIL_PORT=2525
-MAIL_USERNAME=2ff43a0f27bbad
-MAIL_PASSWORD=a4b68ddf83be93
+MAIL_USERNAME=
+MAIL_PASSWORD=
 # MAIL_ENCRYPTION=null
 
 MAIL_FROM_ADDRESS=no-reply@birthday.com
