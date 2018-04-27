@@ -1,0 +1,45 @@
+@font-face {
+    font-family: woffCorbelNormal;
+    src: url('../fonts/woff/Corbel/Corbel.eot');
+    src: local("☺"), url('../fonts/woff/Corbel/Corbel.eot?#iefix') format('embedded-opentype'), url('../fonts/woff/Corbel/Corbel.svg#Corbel') format('svg'), url('../fonts/woff/Corbel/Corbel.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    color: #8b8b8b;
+    font: 16px woffCorbelNormal;
+}
+
+.modal-dialog-delete {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%) !important;
+}
+/*
+.modal-header {
+    background-color: #1D90DA; !* #1265a5; *!
+    color: #FFFFFF;
+}
+.modal-backdrop {
+    background-color: #1D90DA; !* #1265a5; *!
+}
+.btn-default {
+    color: #fff;
+    background-color: #1D90DA;
+    border-color: #0788d6;
+}
+.btn-default:hover {
+    color: #fff;
+    background-color: #7B9D25;
+    border: 1px solid transparent;
+    box-shadow: inset 0 3px 5px rgba(29,144,218,.125);
+    -webkit-box-shadow: inset 0 3px 5px rgba(29,144,218,.125);
+}
+.btn-default.focus, .btn-default:focus
+{
+    color: #fff;
+    background-color: #7B9D25;
+}
+*/

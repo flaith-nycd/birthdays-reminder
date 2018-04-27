@@ -1,0 +1,51 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+/*
+ * Update
+ */
+
+/*
+$bgColor: #1d90da;
+$txtColor: #fff;
+$btn-default-bgColor: #7b9d25;
+
+.modal-header {
+  background-color: $bgColor;
+  color: $txtColor;
+
+  // To be compliance with Bootstrap, add the
+  // border-radius because we have a background color
+  // top-left and top-right only
+  // 4px is better than the original 6px
+  border-radius: 4px 4px 0 0;
+}
+.modal-backdrop {
+  background-color: $bgColor;
+}
+.btn-default {
+  color: $txtColor;
+  background-color: $bgColor;
+  //border-color: #0788d6;
+  border-color: darken($bgColor, 6.5%);
+}
+.btn-default:hover {
+  color: #fff;
+  background-color: $btn-default-bgColor;
+  border: 1px solid transparent;
+  box-shadow: inset 0 3px 5px rgba(29,144,218,.125);
+  -webkit-box-shadow: inset 0 3px 5px rgba(29,144,218,.125);
+}
+.btn-default.focus, .btn-default:focus
+{
+  color: $txtColor;
+  background-color: $btn-default-bgColor;
+}
+*/
