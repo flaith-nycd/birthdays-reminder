@@ -7,7 +7,7 @@ Keep your birthdays to remember
 
 I just wanted to keep some birthdays of my family and friends to be sure to contact them the right time :wink:
 
-> So I'm using Laravel to do it and [laracasts/flash - Easy Flash Messages for Your Laravel App](https://github.com/laracasts/flash) from [Jeffrey Way](https://laracasts.com/)
+> So I'm using [Laravel](https://laravel.com/) to do it and [laracasts/flash - Easy Flash Messages for Your Laravel App](https://github.com/laracasts/flash) from [Jeffrey Way](https://laracasts.com/)
 
 Here is a copy of my `.env` file
 ```
