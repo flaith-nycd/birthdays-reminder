@@ -46,3 +46,6 @@ PUSHER_APP_SECRET=
 ```
 
 So I'm using _sqlite_, don't forget to create `database.sqlite` in `database` directory
+
+## To start
+![Install](http://img.sotfall.com/laravel/birthday/img#01.png)
