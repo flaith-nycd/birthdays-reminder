@@ -86,3 +86,5 @@ So I'm using _sqlite_, don't forget to create `database.sqlite` in `database` di
 > Send you an email to warn you with the next birthday to remember
 
 > SMS ?
+
+> Cleaning the code, Refactoring
