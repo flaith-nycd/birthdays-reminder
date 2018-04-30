@@ -66,7 +66,7 @@ So I'm using _sqlite_, don't forget to create `database.sqlite` in `database` di
 
     ![Create a user](http://img.sotfall.com/laravel/birthday/img%2306.png)
 
-* If you don't remember the year, you can avoid it
+* If you don't remember the year (and the email), you can avoid it
 
     ![Create a user](http://img.sotfall.com/laravel/birthday/img%2307.png)
 
