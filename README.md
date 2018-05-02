@@ -85,6 +85,8 @@ So I'm using _sqlite_, don't forget to create `database.sqlite` in `database` di
 ## TO DO
 > Send you an email to warn you with the next birthday to remember
 
+> Export list of birthdays (JSON, XML, ...)
+
 > SMS ?
 
 > Cleaning the code, Refactoring
