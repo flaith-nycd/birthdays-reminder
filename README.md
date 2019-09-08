@@ -2,7 +2,7 @@
 
 Keep your birthdays to remember
 <p align="center">
-<img src="http://img.sotfall.com/laravel/birthday/img%2301.png">
+<img src="http://img.sotfall.com/laravel/birthday/img%2301_2.png">
 </p>
 
 I just wanted to keep some birthdays of my family and friends to be sure to contact them the right time :wink:
