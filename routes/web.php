@@ -24,3 +24,5 @@ Auth::routes();
 Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 // use ressource
 Route::resource('birthday', 'BirthdayController');
+Route::get('export_excel','ExportController@export_excel')->name('export_excel');
+Route::get('export_csv','ExportController@export_csv')->name('export_csv');
