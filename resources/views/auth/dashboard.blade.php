@@ -19,6 +19,8 @@
             </div>
             <button class="btn btn-primary">Update</button>
             <button class="btn btn-danger">Delete account</button>
+            <a href="{{ route('export_excel') }}" class="btn btn-success">Export to Excel</a>
+            <a href="{{ route('export_csv') }}" class="btn btn-primary">Export to CSV</a>
         </div>
     </div>
 </div>
